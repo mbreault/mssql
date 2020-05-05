@@ -1,0 +1,1 @@
+Based on https://www.sqlshack.com/temporal-tables-in-sql-server/
